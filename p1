@@ -46,7 +46,7 @@ reel1 = Instagram(
     "dancing",
     "dancing with friends",
     "Vinutha",
-    "Bangalore"
+    "Bangalore mysore" 
 )
 
 reel1.disliked()
